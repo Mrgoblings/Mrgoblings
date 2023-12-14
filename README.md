@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **nextjs**
 
-- 👨‍💻 All of my projects are available at [soon at coderr.tech](soon at coderr.tech)
+- 👨‍💻 All of my projects will be available soon at [coderr.tech](coderr.tech)
 
 - 📫 How to reach me **mrgoblings@gmail.com**
 
