@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrgoblings" alt="mrgoblings" /></a> </p>
 
-- 🔭 I’m currently working on [nextjs-destination-chooser](https://github.com/Mrgoblings/nextjs-destination-chooser)
-
-- 🌱 I’m currently learning **nextjs**
-
 - 👨‍💻 All of my projects will be available soon at [coderr.tech](coderr.tech)
 
 - 📫 How to reach me **mrgoblings@gmail.com**
