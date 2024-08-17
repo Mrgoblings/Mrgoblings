@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects will be available soon at [coderr.tech](https://coderr.tech)
 
-- 📫 How to reach me: **mrgoblings@gmail.com**
+- 📫 How to reach me: **emil@momchev.dev**
 
 - ⚡ Fun fact: **I use Arch btw ;)**
 
