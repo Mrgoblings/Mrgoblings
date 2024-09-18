@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrgoblings" alt="mrgoblings" /></a> </p>
 
-- 🌱 I’m currently working on **EnteOS**, a minimal operating system written in Rust.
+- 🌱 I’m currently working on **AnasOS**, a minimal operating system written in Rust.
 
 - 👨‍💻 All of my projects will be available soon at [coderr.tech](https://coderr.tech)
 
