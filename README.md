@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋, I'm Emil Momchev</h1>
 <h3 align="center">A passionate fullstack/low-level developer from Bulgaria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=mrgoblings&theme=radical" alt="mrgoblings" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=mrgoblings&theme=dracula" alt="mrgoblings" /></a> </p>
 
 - 🌱 I’m currently working on **AnasOS**, a minimal operating system written in Rust.
 
 - 👨‍💻 All of my projects will be available soon at [coderr.tech](https://coderr.tech)
 
-- 📫 How to reach me: **emil@momchev.dev**
+- 📫 How to reach me: **emil@momchev.dev** or <a href="https://discord.gg/mrgoblings" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mrgoblings" height="30" width="30" /></a>
 
 - ⚡ Fun fact: **I use Arch btw ;)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/mrgoblings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mrgoblings" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -33,5 +29,17 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrgoblings&show_icons=true&locale=en&theme=radical" alt="mrgoblings_score" /></p>
-<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=Mrgoblings&theme=radical" alt="mrgoblings_streak" /></p>
+<p align="center">
+  <a href="https://github.com/Mrgoblings">
+    &nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrgoblings&show_icons=true&locale=en&theme=dracula" alt="mrgoblings_score" />
+  </a>
+  <a href="https://github.com/Mrgoblings">
+    &nbsp;
+    <img align="center" src="https://streak-stats.demolab.com/?user=Mrgoblings&theme=dracula" alt="mrgoblings_streak" />
+  </a>
+  <a href="https://github.com/Mrgoblings">
+    &nbsp;
+    <img margin=66px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrgoblings&hide=ShaderLab&layout=compact&langs_count=10&exclude_repo=ProjectBlank&card_width=275&theme=dracula" />
+  </a>
+</p>
