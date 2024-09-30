@@ -29,17 +29,12 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Mrgoblings">
-    &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrgoblings&show_icons=true&locale=en&theme=dracula" alt="mrgoblings_score" />
-  </a>
-  <a href="https://github.com/Mrgoblings">
-    &nbsp;
-    <img align="center" src="https://streak-stats.demolab.com/?user=Mrgoblings&theme=dracula" alt="mrgoblings_streak" />
-  </a>
-  <a href="https://github.com/Mrgoblings">
-    &nbsp;
-    <img margin=66px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrgoblings&hide=ShaderLab&layout=compact&langs_count=10&exclude_repo=ProjectBlank&card_width=275&theme=dracula" />
-  </a>
-</p>
+<a href="https://github.com/Mrgoblings">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrgoblings&show_icons=true&locale=en&theme=dracula" alt="mrgoblings_score" />
+</a>
+<a href="https://github.com/Mrgoblings">
+  <img align="center" src="https://streak-stats.demolab.com/?user=Mrgoblings&theme=dracula" alt="mrgoblings_streak" />
+</a>
+<a href="https://github.com/Mrgoblings">
+  <img margin=66px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrgoblings&hide=ShaderLab&layout=compact&langs_count=10&exclude_repo=ProjectBlank&card_width=275&theme=dracula" />
+</a>
