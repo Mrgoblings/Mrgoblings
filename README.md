@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects will be available soon at [coderr.tech](https://coderr.tech)
 
-- 📫 How to reach me: **emil@momchev.dev** or <a href="https://discord.gg/mrgoblings" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mrgoblings" height="30" width="30" /></a>
+- 📫 How to reach me: **emil@momchev.dev**
 
 - ⚡ Fun fact: **I use Arch btw ;)**
 
