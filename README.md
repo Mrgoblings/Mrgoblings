@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=mrgoblings&theme=dracula" alt="mrgoblings" /></a> </p>
 
-- 🌱 I’m currently working on **AnasOS**, a minimal operating system written in Rust.
+- 🌱 I’m currently working on [***AnasOS***](https://github.com/Mrgoblings/AnasOS/), a minimal operating system written in Rust.
 
-- 👨‍💻 All of my projects will be available soon at [coderr.tech](https://coderr.tech)
+- 👨‍💻 All of my projects will be available soon at [***coderr.tech***](https://coderr.tech)
 
-- 📫 How to reach me: **emil@momchev.dev**
+- 📫 How to reach me: ***emil@momchev.dev***
 
-- ⚡ Fun fact: **I use Arch btw ;)**
+- ⚡ Fun fact: ***I use Arch btw ;)***
 
 
 <h3 align="left">Languages and Tools:</h3>
