@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on [***AnasOS***](https://github.com/Mrgoblings/AnasOS/), a minimal operating system written in Rust.
 
-- 👨‍💻 All of my projects will be available soon at [***coderr.tech***](https://coderr.tech)
+- 👨‍💻 All of my projects will be available soon at [***momchev.dev***](https://momchev.dev)
 
 - 📫 How to reach me: ***emil@momchev.dev***
 
